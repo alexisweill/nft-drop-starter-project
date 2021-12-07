@@ -1,0 +1,19 @@
+{
+    "name": "Mr Peanutbutter",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7eCpJczSwDxSvxyVgdJRztRCjhi9A31BFyRauwerM8Xg",
+          "share": 100
+        }
+      ]
+    }
+  }
